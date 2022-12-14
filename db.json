@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "nome": "Gabriel",
+      "sobrenome": "Santos Costa",
+      "idade": "21",
+      "checkbox": true,
+      "id": 1
+    },
+    {
+      "nome": "Ingrid",
+      "sobrenome": "Cristina Gonçalves dos Santos",
+      "idade": "19",
+      "checkbox": true,
+      "id": 2
+    }
+  ]
+}
